@@ -1,10 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Saurav Kumar Pal</h1>
 <h3 align="center">Curious mind | Data nerd | Tech explorer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravkrpal&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkrpal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravkrpal" alt="sauravkrpal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/archit_nanadan" target="blank"><img src="https://img.shields.io/twitter/follow/archit_nanadan?logo=twitter&style=for-the-badge" alt="archit_nanadan" /></a> </p>
 
@@ -19,10 +14,6 @@
 - 📄 Know about my experiences [https://www.notion.so/Workfolio-a79bffdb788348efaa9c24ac9705dcb0 Achievements](https://www.notion.so/Workfolio-a79bffdb788348efaa9c24ac9705dcb0 Achievements)
 
 - ⚡ Fun fact **Always exploring new technologies, tools, and best practices in Data Science**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,13 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravkrpal&show_icons=true&locale=en" alt="sauravkrpal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravkrpal&" alt="sauravkrpal" /></p>
-
-### 💡 **Let’s Connect!**  
-📬 Got a cool project? Need a **data-driven** superhero? Hit me up! 🚀  
-
----  
-
-<!---
-sauravkrpal/sauravkrpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
