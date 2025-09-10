@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/archit_nanadan" target="blank"><img src="https://img.shields.io/twitter/follow/archit_nanadan?logo=twitter&style=for-the-badge" alt="archit_nanadan" /></a> </p>
 
-- 🌱 I’m currently learning **• Advanced SQL Queries & Data Engineering Pipelines  • Advanced Machine Learning Models – Random Forests, XGBoost, and Deep Learning with TensorFlow**
+🌱 I’m currently learning  
+• Advanced SQL Queries & Data Engineering Pipelines  
+• Advanced Machine Learning Models – Random Forests, XGBoost, and Deep Learning with TensorFlow
 
 - 👨‍💻 All of my projects are available at [datascienceportfol.io/architnandan007](datascienceportfol.io/architnandan007)
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **work.sauravkumarpal@gmail.com**
 
-- 📄 Know about my experiences [https://www.notion.so/Workfolio-a79bffdb788348efaa9c24ac9705dcb0 Achievements](https://www.notion.so/Workfolio-a79bffdb788348efaa9c24ac9705dcb0 Achievements)
+- 📄 Know about my experiences [https://www.notion.so/Workfolio-a79bffdb788348efaa9c24ac9705dcb0 Achievements]
 
 - ⚡ Fun fact **Always exploring new technologies, tools, and best practices in Data Science**
 
